@@ -1,0 +1,14 @@
+{
+  "name": "Santa",
+  "version": "1.0.0",
+  "description": "Santa adam",
+  "main": "santa.js",
+  "scripts": {
+    "test": "node santa.js"
+  },
+  "author": "Santa'S",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
